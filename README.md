@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 i'm Álvaro Raúl
+Ingeniero en Sistemas Computacionales, con experiencia en el area de tecnologia como desarrollo web.
 <!--
 **AlvaroRaul123/AlvaroRaul123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
